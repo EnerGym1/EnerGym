@@ -969,6 +969,7 @@ section {
 #footer .logo img {
   margin-top: 7.5vh;
   border-left: 4px solid #18d26e;
+  pading-left: 10px;
   max-height: 150px;
 }
 #footer .footer-top {
